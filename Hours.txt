@@ -1,0 +1,24 @@
+Hours to Complete Task:
+	• It took my four days to complete this assignment
+
+On Day 1:  (6 Hours)
+	• Read Assignment and instruction carefully
+	• Learned virtual environment in python
+	• Python Syntax
+	• Python best practices
+	• Environment Setup
+
+On Day 2: (8 Hours)
+	• Write some code for practice and understanding.
+	• Explore network requests and file handling in python
+	• Write code for assignment just to get an idea and for practice
+
+On Day 3: (8 Hours)
+	• planed the structure of project 
+	• implemented first task complete and second partially
+
+On Day 4: (10 Hours)
+	• Completed task 2
+	• Completed bonus task 
+	• Completed Document for assignment
+	• Submit Assignment 

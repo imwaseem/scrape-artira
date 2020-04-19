@@ -1,0 +1,1211 @@
+[
+  {
+    "price": "259",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "All inclusive rent including utilities and unlimited internet",
+      "Personal study desk with chair and desk lamp",
+      "Swipe card access with individual locking rooms",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "Twin Share Premier",
+    "building_name": "Waymouth St",
+    "location": "231 Waymouth Street Adelaide SA 5000 Australia, "
+  },
+  {
+    "price": "340",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "Twin Plus",
+    "building_name": "La Trobe St",
+    "location": "50 La Trobe Street Melbourne VIC 3000,  Australia"
+  },
+  {
+    "price": "309",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Your weekly rent covers almost everything, including water, electricity, unlimited internet data and use of all common areas.",
+      "Secured electronic Swipe Card access.",
+      "Every room has its own personal study desk with a desk lamp for your private study.",
+      "Free Wi-Fi in all of our common areas. Rent includes unlimited data.",
+      "With large windows and high ceilings, your room is full of natural light, with views of your new local neighbourhood.",
+      "224L fridge/freezer combo",
+      "A dual level Dishwasher",
+      "A range of useful appliances",
+      "Built in mid-sized oven",
+      "Convection Microwave",
+      "Electric glass cooktop",
+      "Smart TV"
+    ],
+    "room_name": "Studio Saver",
+    "building_name": "Merivale St",
+    "location": "118 Merivale St South Brisbane QLD 4101,  Australia"
+  },
+  {
+    "price": "359",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Air conditioning with temperature control panel",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "Double bed with mattress protector"
+    ],
+    "room_name": "Studio Apartment",
+    "building_name": "Waymouth St",
+    "location": "231 Waymouth Street Adelaide SA 5000 Australia, "
+  },
+  {
+    "price": "440",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "2 Bedroom Apartment",
+    "building_name": "La Trobe St",
+    "location": "50 La Trobe Street Melbourne VIC 3000,  Australia"
+  },
+  {
+    "price": "345",
+    "capacity_of_persons": " 3 ",
+    "feature": [
+      "Openable windows providing light with retractable blinds",
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "3 Bedroom Apartment",
+    "building_name": "Waymouth St",
+    "location": "231 Waymouth Street Adelaide SA 5000 Australia, "
+  },
+  {
+    "price": "239",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "Openable windows providing light with retractable blinds",
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "Twin Share",
+    "building_name": "Glen Rd",
+    "location": "33 Glen Rd Toowong QLD 4066,  Australia"
+  },
+  {
+    "price": "335",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector",
+      "All inclusive rent including utilities and unlimited internet"
+    ],
+    "room_name": "2 Bedroom Apartment",
+    "building_name": "Waymouth St",
+    "location": "231 Waymouth Street Adelaide SA 5000 Australia, "
+  },
+  {
+    "price": "489",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Air conditioning with temperature control panel",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "Double bed with mattress protector"
+    ],
+    "room_name": "Studio Plus Double",
+    "building_name": "Peel St",
+    "location": "247 Peel Street North Melbourne VIC 3051,  Australia"
+  },
+  {
+    "price": "239",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "Single bed with mattress protector"
+    ],
+    "room_name": "Twin Share Studio",
+    "building_name": "Merivale St",
+    "location": "118 Merivale St South Brisbane QLD 4101,  Australia"
+  },
+  {
+    "price": "299",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable Windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Double bed with mattress protector",
+      "Wardrobe with hanger rack and ample storage space"
+    ],
+    "room_name": "Studio Apartment",
+    "building_name": "Regent St",
+    "location": "15 Regent Street Woolloongabba Brisbane QLD 4102, "
+  },
+  {
+    "price": "330",
+    "capacity_of_persons": " 7 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Queen bed with mattress protector",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space"
+    ],
+    "room_name": "7 Bedroom Apartment Premier",
+    "building_name": "Waymouth St",
+    "location": "231 Waymouth Street Adelaide SA 5000 Australia, "
+  },
+  {
+    "price": "195",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "All inclusive rent including utilities and unlimited internet",
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "Openable Windows providing light with retractable blinds",
+      "King-single bed with mattress protector",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space"
+    ],
+    "room_name": "Twin Bunk Studio With Balcony",
+    "building_name": "Regent St",
+    "location": "15 Regent Street Woolloongabba Brisbane QLD 4102, "
+  },
+  {
+    "price": "350",
+    "capacity_of_persons": " 6 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Openable windows providing light with retractable blinds",
+      "Queen bed with mattress protector",
+      "Wardrobe with hanger rack and ample storage space"
+    ],
+    "room_name": "6 Bedroom Apartment Premier",
+    "building_name": "Waymouth St",
+    "location": "231 Waymouth Street Adelaide SA 5000 Australia, "
+  },
+  {
+    "price": "329",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "All inclusive rent including utilities and unlimited internet",
+      "Personal study desk with chair and desk lamp",
+      "Openable Windows providing light with retractable blinds",
+      "Double bed with mattress protector",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space"
+    ],
+    "room_name": "Studio Premier Apartment",
+    "building_name": "Regent St",
+    "location": "15 Regent Street Woolloongabba Brisbane QLD 4102, "
+  },
+  {
+    "price": "369",
+    "capacity_of_persons": " 5 ",
+    "feature": [
+      "Individual lockable rooms with secured electronic swipe card access.",
+      "Every room has its own personal study desk with a desk lamp for your private study.",
+      "Your weekly rent covers almost everything, including water, electricity, unlimited internet data and use of all common areas.",
+      "Our rooms have individually controlled air-conditioners so you can adjust your room\u2019s temperature just the way you like it."
+    ],
+    "room_name": "5 Bedroom Apartment Saver",
+    "building_name": "Peel St",
+    "location": "247 Peel Street North Melbourne VIC 3051,  Australia"
+  },
+  {
+    "price": "434",
+    "capacity_of_persons": " 4 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "4 Bedroom Apartment",
+    "building_name": "La Trobe St",
+    "location": "50 La Trobe Street Melbourne VIC 3000,  Australia"
+  },
+  {
+    "price": "325",
+    "capacity_of_persons": " 3 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "Openable windows providing light with retractable blinds",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "Single bed with mattress protector"
+    ],
+    "room_name": "3 Bedroom Apartment",
+    "building_name": "Merivale St",
+    "location": "118 Merivale St South Brisbane QLD 4101,  Australia"
+  },
+  {
+    "price": "340",
+    "capacity_of_persons": " 6 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "Double bed with mattress protector"
+    ],
+    "room_name": "6 Bedroom Apartment Plus",
+    "building_name": "Waymouth St",
+    "location": "231 Waymouth Street Adelaide SA 5000 Australia, "
+  },
+  {
+    "price": "359",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Air conditioning with temperature control panel",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "Queen bed with mattress protector"
+    ],
+    "room_name": "Studio Plus",
+    "building_name": "Waymouth St",
+    "location": "231 Waymouth Street Adelaide SA 5000 Australia, "
+  },
+  {
+    "price": "429",
+    "capacity_of_persons": " 3 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "3 Bedroom Apartment",
+    "building_name": "Peel St",
+    "location": "247 Peel Street North Melbourne VIC 3051,  Australia"
+  },
+  {
+    "price": "325",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "All inclusive rent including utilities and unlimited internet",
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "Twin Share Plus",
+    "building_name": "Peel St",
+    "location": "247 Peel Street North Melbourne VIC 3051,  Australia"
+  },
+  {
+    "price": "429",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "Double bed with mattress protector"
+    ],
+    "room_name": "Studio Premier",
+    "building_name": "Glen Rd",
+    "location": "33 Glen Rd Toowong QLD 4066,  Australia"
+  },
+  {
+    "price": "245",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "All inclusive rent including utilities and unlimited internet",
+      "Personal study desk with chair and desk lamp",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "Twin Loft Studio",
+    "building_name": "Merivale St",
+    "location": "118 Merivale St South Brisbane QLD 4101,  Australia"
+  },
+  {
+    "price": "330",
+    "capacity_of_persons": " 6 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "6 Bedroom Apartment",
+    "building_name": "Waymouth St",
+    "location": "231 Waymouth Street Adelaide SA 5000 Australia, "
+  },
+  {
+    "price": "389",
+    "capacity_of_persons": " 5 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "5 Bedroom Apartment Plus",
+    "building_name": "Peel St",
+    "location": "247 Peel Street North Melbourne VIC 3051,  Australia"
+  },
+  {
+    "price": "195",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "All inclusive rent including utilities and unlimited internet",
+      "Personal study desk with chair and desk lamp",
+      "Swipe card access with individual locking rooms",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "Twin Mix",
+    "building_name": "Merivale St",
+    "location": "118 Merivale St South Brisbane QLD 4101,  Australia"
+  },
+  {
+    "price": "379",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Air conditioning with temperature control panel",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "Double bed with mattress protector"
+    ],
+    "room_name": "Studio Plus",
+    "building_name": "Glen Rd",
+    "location": "33 Glen Rd Toowong QLD 4066,  Australia"
+  },
+  {
+    "price": "310",
+    "capacity_of_persons": " 7 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "7 Bedroom Apartment",
+    "building_name": "Waymouth St",
+    "location": "231 Waymouth Street Adelaide SA 5000 Australia, "
+  },
+  {
+    "price": "339",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "Openable windows providing light with retractable blinds",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "Single bed with mattress protector"
+    ],
+    "room_name": "2 Bedroom Apartment Premier",
+    "building_name": "Merivale St",
+    "location": "118 Merivale St South Brisbane QLD 4101,  Australia"
+  },
+  {
+    "price": "359",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Air conditioning with temperature control panel",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "Double bed with mattress protector"
+    ],
+    "room_name": "Studio Apartment",
+    "building_name": "Glen Rd",
+    "location": "33 Glen Rd Toowong QLD 4066,  Australia"
+  },
+  {
+    "price": "349",
+    "capacity_of_persons": " 7 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "7 Bedroom Apartment Premier",
+    "building_name": "La Trobe St",
+    "location": "50 La Trobe Street Melbourne VIC 3000,  Australia"
+  },
+  {
+    "price": "329",
+    "capacity_of_persons": " 4 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "King single bed with mattress protector"
+    ],
+    "room_name": "4 Bedroom Apartment Plus",
+    "building_name": "Glen Rd",
+    "location": "33 Glen Rd Toowong QLD 4066,  Australia"
+  },
+  {
+    "price": "319",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "Single bed with mattress protector"
+    ],
+    "room_name": "2 Bedroom Apartment Plus",
+    "building_name": "Merivale St",
+    "location": "118 Merivale St South Brisbane QLD 4101,  Australia"
+  },
+  {
+    "price": "494",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Air conditioning with temperature control panel",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "Double bed with mattress protector"
+    ],
+    "room_name": "Studio Plus Double",
+    "building_name": "La Trobe St",
+    "location": "50 La Trobe Street Melbourne VIC 3000,  Australia"
+  },
+  {
+    "price": "344",
+    "capacity_of_persons": " 7 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "7 Bedroom Apartment",
+    "building_name": "La Trobe St",
+    "location": "50 La Trobe Street Melbourne VIC 3000,  Australia"
+  },
+  {
+    "price": "340",
+    "capacity_of_persons": " 5 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Openable windows providing light with retractable blinds",
+      "Double bed\u00a0with mattress protector",
+      "Wardrobe with hanger rack and ample storage space"
+    ],
+    "room_name": "5 Bedroom Apartment Plus",
+    "building_name": "Waymouth St",
+    "location": "231 Waymouth Street Adelaide SA 5000 Australia, "
+  },
+  {
+    "price": "414",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "Queen bed with mattress protector"
+    ],
+    "room_name": "Studio Premier",
+    "building_name": "Waymouth St",
+    "location": "231 Waymouth Street Adelaide SA 5000 Australia, "
+  },
+  {
+    "price": "320",
+    "capacity_of_persons": " 7 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single or double bed with mattress protector"
+    ],
+    "room_name": "7 Bedroom Apartment Plus",
+    "building_name": "Waymouth St",
+    "location": "231 Waymouth Street Adelaide SA 5000 Australia, "
+  },
+  {
+    "price": "289",
+    "capacity_of_persons": " 5 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable Windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "Double bed with mattress protector"
+    ],
+    "room_name": "5 Bedroom Apartment with Balcony",
+    "building_name": "Regent St",
+    "location": "15 Regent Street Woolloongabba Brisbane QLD 4102, "
+  },
+  {
+    "price": "514",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "Double bed with mattress protector"
+    ],
+    "room_name": "Studio Premier Double",
+    "building_name": "La Trobe St",
+    "location": "50 La Trobe Street Melbourne VIC 3000,  Australia"
+  },
+  {
+    "price": "299",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "All inclusive rent including utilities and unlimited internet",
+      "Personal study desk with chair and desk lamp",
+      "Swipe card access with individual locking rooms",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "Twin Share Premier",
+    "building_name": "Glen Rd",
+    "location": "33 Glen Rd Toowong QLD 4066,  Australia"
+  },
+  {
+    "price": "330",
+    "capacity_of_persons": " 5 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "5 Bedroom Apartment",
+    "building_name": "Waymouth St",
+    "location": "231 Waymouth Street Adelaide SA 5000 Australia, "
+  },
+  {
+    "price": "504",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "Studio Premier King Single",
+    "building_name": "La Trobe St",
+    "location": "50 La Trobe Street Melbourne VIC 3000,  Australia"
+  },
+  {
+    "price": "199",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "All inclusive rent including utilities and unlimited internet",
+      "Personal study desk with chair and desk lamp",
+      "Swipe card access with individual locking rooms",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "Twin Bunk Studio",
+    "building_name": "Waymouth St",
+    "location": "231 Waymouth Street Adelaide SA 5000 Australia, "
+  },
+  {
+    "price": "460",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "2 Bedroom Apartment Plus",
+    "building_name": "La Trobe St",
+    "location": "50 La Trobe Street Melbourne VIC 3000,  Australia"
+  },
+  {
+    "price": "330",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "All inclusive rent including utilities and unlimited internet",
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "Twin Share",
+    "building_name": "La Trobe St",
+    "location": "50 La Trobe Street Melbourne VIC 3000,  Australia"
+  },
+  {
+    "price": "179",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "All inclusive rent including utilities and unlimited internet",
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector",
+      "A 210L Fridge/freezer combo",
+      "A range of useful appliances",
+      "Convection Microwave"
+    ],
+    "room_name": "Twin Bunk",
+    "building_name": "Glen Rd",
+    "location": "33 Glen Rd Toowong QLD 4066,  Australia"
+  },
+  {
+    "price": "464",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Air conditioning with temperature control panel",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "Studio King Single",
+    "building_name": "La Trobe St",
+    "location": "50 La Trobe Street Melbourne VIC 3000,  Australia"
+  },
+  {
+    "price": "269",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "Openable windows providing light with retractable blinds",
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "Twin Share Plus",
+    "building_name": "Glen Rd",
+    "location": "33 Glen Rd Toowong QLD 4066,  Australia"
+  },
+  {
+    "price": "389",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Air conditioning with temperature control panel",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "Double bed with mattress protector",
+      "A 210L Fridge/freezer combo",
+      "A range of useful appliances",
+      "Convection Microwave",
+      "Electric glass cooktop",
+      "Smart TV"
+    ],
+    "room_name": "Studio Plus \u2013 Corner",
+    "building_name": "Glen Rd",
+    "location": "33 Glen Rd Toowong QLD 4066,  Australia"
+  },
+  {
+    "price": "355",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "All inclusive rent including utilities and unlimited internet",
+      "Personal study desk with chair and desk lamp",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "Double bed with mattress protector"
+    ],
+    "room_name": "Studio Plus Apartment",
+    "building_name": "Merivale St",
+    "location": "118 Merivale St South Brisbane QLD 4101,  Australia"
+  },
+  {
+    "price": "444",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Air conditioning with temperature control panel",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "Double bed with mattress protector"
+    ],
+    "room_name": "Studio Saver Double",
+    "building_name": "La Trobe St",
+    "location": "50 La Trobe Street Melbourne VIC 3000,  Australia"
+  },
+  {
+    "price": "415",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "Double bed with mattress protector"
+    ],
+    "room_name": "Studio Premier Apartment",
+    "building_name": "Merivale St",
+    "location": "118 Merivale St South Brisbane QLD 4101,  Australia"
+  },
+  {
+    "price": "484",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Air conditioning with temperature control panel",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "Studio Plus King Single",
+    "building_name": "La Trobe St",
+    "location": "50 La Trobe Street Melbourne VIC 3000,  Australia"
+  },
+  {
+    "price": "319",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "Single bed with mattress protector"
+    ],
+    "room_name": "2 Bedroom Apartment",
+    "building_name": "Merivale St",
+    "location": "118 Merivale St South Brisbane QLD 4101,  Australia"
+  },
+  {
+    "price": "449",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "Studio King Single",
+    "building_name": "Peel St",
+    "location": "247 Peel Street North Melbourne VIC 3051,  Australia"
+  },
+  {
+    "price": "484",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Air conditioning with temperature control panel",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "Double bed with mattress protector"
+    ],
+    "room_name": "Studio Double",
+    "building_name": "La Trobe St",
+    "location": "50 La Trobe Street Melbourne VIC 3000,  Australia"
+  },
+  {
+    "price": "499",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Air conditioning with temperature control panel",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "Double bed with mattress protector"
+    ],
+    "room_name": "Studio Premier Double",
+    "building_name": "Peel St",
+    "location": "247 Peel Street North Melbourne VIC 3051,  Australia"
+  },
+  {
+    "price": "249",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "All inclusive rent including utilities and unlimited internet",
+      "Personal study desk with chair and desk lamp",
+      "Swipe card access with individual locking rooms",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "Twin Share Plus",
+    "building_name": "Waymouth St",
+    "location": "231 Waymouth Street Adelaide SA 5000 Australia, "
+  },
+  {
+    "price": "195",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "All inclusive rent including utilities and unlimited internet",
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "Openable Windows providing light with retractable blinds",
+      "Single bed with mattress protector",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space"
+    ],
+    "room_name": "Twin Bunk",
+    "building_name": "Regent St",
+    "location": "15 Regent Street Woolloongabba Brisbane QLD 4102, "
+  },
+  {
+    "price": "384",
+    "capacity_of_persons": " 6 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "6 Bedroom Apartment",
+    "building_name": "La Trobe St",
+    "location": "50 La Trobe Street Melbourne VIC 3000,  Australia"
+  },
+  {
+    "price": "285",
+    "capacity_of_persons": " 5 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable Windows providing light with retractable blinds",
+      "Double bed with mattress protector",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space"
+    ],
+    "room_name": "5 Bedroom Apartment",
+    "building_name": "Regent St",
+    "location": "15 Regent Street Woolloongabba Brisbane QLD 4102, "
+  },
+  {
+    "price": "354",
+    "capacity_of_persons": " 7 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "7 Bedroom Apartment Plus",
+    "building_name": "La Trobe St",
+    "location": "50 La Trobe Street Melbourne VIC 3000,  Australia"
+  },
+  {
+    "price": "379",
+    "capacity_of_persons": " 5 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "5 Bedroom Apartment",
+    "building_name": "Peel St",
+    "location": "247 Peel Street North Melbourne VIC 3051,  Australia"
+  },
+  {
+    "price": "469",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Air conditioning with temperature control panel",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "Double bed with mattress protector"
+    ],
+    "room_name": "Studio Double",
+    "building_name": "Peel St",
+    "location": "247 Peel Street North Melbourne VIC 3051,  Australia"
+  },
+  {
+    "price": "309",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable Windows providing light with retractable blinds",
+      "Double bed with mattress protector",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space"
+    ],
+    "room_name": "Studio Plus Apartment",
+    "building_name": "Regent St",
+    "location": "15 Regent Street Woolloongabba Brisbane QLD 4102, "
+  },
+  {
+    "price": "419",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Air conditioning with temperature control panel",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "Studio Saver King Single",
+    "building_name": "La Trobe St",
+    "location": "50 La Trobe Street Melbourne VIC 3000,  Australia"
+  },
+  {
+    "price": "259",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "All inclusive rent including utilities and unlimited internet",
+      "Personal study desk with chair and desk lamp",
+      "Swipe card access with individual locking rooms",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "Twin Share Studio",
+    "building_name": "Waymouth St",
+    "location": "231 Waymouth Street Adelaide SA 5000 Australia, "
+  },
+  {
+    "price": "299",
+    "capacity_of_persons": " 6 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "6 Bedroom Apartment",
+    "building_name": "Glen Rd",
+    "location": "33 Glen Rd Toowong QLD 4066,  Australia"
+  },
+  {
+    "price": "305",
+    "capacity_of_persons": " 2 ",
+    "feature": [
+      "All inclusive rent including utilities and unlimited internet",
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "Twin Share",
+    "building_name": "Peel St",
+    "location": "247 Peel Street North Melbourne VIC 3051,  Australia"
+  },
+  {
+    "price": "404",
+    "capacity_of_persons": " 4 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "Double bed with mattress protector"
+    ],
+    "room_name": "4 Bedroom Apartment Plus",
+    "building_name": "Peel St",
+    "location": "247 Peel Street North Melbourne VIC 3051,  Australia"
+  },
+  {
+    "price": "374",
+    "capacity_of_persons": " 4 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "4 Bedroom Apartment",
+    "building_name": "Peel St",
+    "location": "247 Peel Street North Melbourne VIC 3051,  Australia"
+  },
+  {
+    "price": "345",
+    "capacity_of_persons": " 1 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Openable windows providing light with retractable blinds",
+      "Air conditioning with temperature control panel",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "Studio Apartment",
+    "building_name": "Merivale St",
+    "location": "118 Merivale St South Brisbane QLD 4101,  Australia"
+  },
+  {
+    "price": "319",
+    "capacity_of_persons": " 4 ",
+    "feature": [
+      "Swipe card access with individual locking rooms",
+      "Personal study desk with chair and desk lamp",
+      "All inclusive rent including utilities and unlimited internet",
+      "Air conditioning with temperature control panel",
+      "Openable windows providing light with retractable blinds",
+      "Wardrobe with hanger rack and ample storage space",
+      "King-single bed with mattress protector"
+    ],
+    "room_name": "4 Bedroom Apartment",
+    "building_name": "Glen Rd",
+    "location": "33 Glen Rd Toowong QLD 4066,  Australia"
+  }
+]

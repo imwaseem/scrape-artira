@@ -1,0 +1,10 @@
+URL_TO_BE_CRAWLED ='https://atira.com'
+REQUEST_HEADER = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36'}
+URL_IS_NOT_VALID = 100
+URL_IS_NOT_VALID_MSG ='Error : Given URl is not valid'
+ERROR_OCCURED_WHILE_SENDING_REQUEST = 101
+ERROR_OCCURED_WHILE_SENDING_REQUEST_MSG='Error unable to establish a connection with requested server.check your internet connection and try again.'
+SOMETHING_WENT_WRONG_WHILE_FETCHING_LOCATIONS =102
+URL_TO_BE_VISITED = set()
+URL_VISITED = set()
+JSON_DATA_FILE_NAME='json_data.txt'
